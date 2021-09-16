@@ -1,0 +1,137 @@
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Etools.exe
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Etools.deps.json
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Etools.runtimeconfig.json
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Etools.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Etools.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\ref\Etools.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Etools.pdb
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\staticwebassets\Etools.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\staticwebassets\Etools.StaticWebAssets.xml
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\scopedcss\bundle\Etools.styles.css
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.csproj.CopyComplete
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.dll
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\ref\Etools.dll
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.pdb
+C:\Users\Admin\source\repos\Etools\obj\Debug\net5.0\Etools.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Etools.Entities.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Etools.Services.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Etools.Entities.pdb
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Etools.Services.pdb
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\Etools\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\appsettings.Development.json
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\appsettings.json
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Etools.exe
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Etools.deps.json
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Etools.runtimeconfig.json
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Etools.runtimeconfig.dev.json
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Etools.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\ref\Etools.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Etools.pdb
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Humanizer.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Etools.Entities.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Etools.Services.dll
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Etools.Entities.pdb
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Etools.Services.pdb
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.csproj.AssemblyReference.cache
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.AssemblyInfoInputs.cache
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.AssemblyInfo.cs
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.csproj.CoreCompileInputs.cache
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\staticwebassets\Etools.StaticWebAssets.Manifest.cache
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\staticwebassets\Etools.StaticWebAssets.xml
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\scopedcss\bundle\Etools.styles.css
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.RazorTargetAssemblyInfo.cache
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.csproj.CopyComplete
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.dll
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\ref\Etools.dll
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.pdb
+D:\New folder (2)\etoolsapi\Etools\obj\Debug\net5.0\Etools.genruntimeconfig.cache
+D:\New folder (2)\etoolsapi\Etools\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

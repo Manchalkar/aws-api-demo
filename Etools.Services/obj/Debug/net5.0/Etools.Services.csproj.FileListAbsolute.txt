@@ -1,0 +1,45 @@
+C:\Users\Admin\source\repos\Etools.Services\bin\Debug\net5.0\Etools.Services.deps.json
+C:\Users\Admin\source\repos\Etools.Services\bin\Debug\net5.0\Etools.Services.dll
+C:\Users\Admin\source\repos\Etools.Services\bin\Debug\net5.0\ref\Etools.Services.dll
+C:\Users\Admin\source\repos\Etools.Services\bin\Debug\net5.0\Etools.Services.pdb
+C:\Users\Admin\source\repos\Etools.Services\bin\Debug\net5.0\Etools.Entities.dll
+C:\Users\Admin\source\repos\Etools.Services\bin\Debug\net5.0\Etools.Entities.pdb
+C:\Users\Admin\source\repos\Etools.Services\obj\Debug\net5.0\Etools.Services.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Etools.Services\obj\Debug\net5.0\Etools.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Etools.Services\obj\Debug\net5.0\Etools.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Etools.Services\obj\Debug\net5.0\Etools.Services.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Etools.Services\obj\Debug\net5.0\Etools.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Etools.Services\obj\Debug\net5.0\Etools.Services.csproj.CopyComplete
+C:\Users\Admin\source\repos\Etools.Services\obj\Debug\net5.0\Etools.Services.dll
+C:\Users\Admin\source\repos\Etools.Services\obj\Debug\net5.0\ref\Etools.Services.dll
+C:\Users\Admin\source\repos\Etools.Services\obj\Debug\net5.0\Etools.Services.pdb
+D:\New folder (2)\etoolsapi\Etools.Services\bin\Debug\net5.0\Etools.Services.deps.json
+D:\New folder (2)\etoolsapi\Etools.Services\bin\Debug\net5.0\Etools.Services.dll
+D:\New folder (2)\etoolsapi\Etools.Services\bin\Debug\net5.0\ref\Etools.Services.dll
+D:\New folder (2)\etoolsapi\Etools.Services\bin\Debug\net5.0\Etools.Services.pdb
+D:\New folder (2)\etoolsapi\Etools.Services\bin\Debug\net5.0\Etools.Entities.dll
+D:\New folder (2)\etoolsapi\Etools.Services\bin\Debug\net5.0\Etools.Entities.pdb
+D:\New folder (2)\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.csproj.AssemblyReference.cache
+D:\New folder (2)\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.AssemblyInfoInputs.cache
+D:\New folder (2)\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.AssemblyInfo.cs
+D:\New folder (2)\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.csproj.CoreCompileInputs.cache
+D:\New folder (2)\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.csproj.CopyComplete
+D:\New folder (2)\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.dll
+D:\New folder (2)\etoolsapi\Etools.Services\obj\Debug\net5.0\ref\Etools.Services.dll
+D:\New folder (2)\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.pdb
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\bin\Debug\net5.0\Etools.Services.deps.json
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\bin\Debug\net5.0\Etools.Services.dll
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\bin\Debug\net5.0\ref\Etools.Services.dll
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\bin\Debug\net5.0\Etools.Services.pdb
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\bin\Debug\net5.0\Etools.Entities.dll
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\bin\Debug\net5.0\Etools.Entities.pdb
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.csproj.AssemblyReference.cache
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.AssemblyInfoInputs.cache
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.AssemblyInfo.cs
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.csproj.CoreCompileInputs.cache
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.csproj.CopyComplete
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.dll
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\obj\Debug\net5.0\ref\Etools.Services.dll
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Services\obj\Debug\net5.0\Etools.Services.pdb

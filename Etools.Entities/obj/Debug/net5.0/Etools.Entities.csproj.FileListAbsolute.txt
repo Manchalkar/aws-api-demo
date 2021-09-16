@@ -1,0 +1,45 @@
+C:\Users\Admin\source\repos\Etools.Entities\bin\Debug\net5.0\Etools.Entities.deps.json
+C:\Users\Admin\source\repos\Etools.Entities\bin\Debug\net5.0\Etools.Entities.dll
+C:\Users\Admin\source\repos\Etools.Entities\bin\Debug\net5.0\ref\Etools.Entities.dll
+C:\Users\Admin\source\repos\Etools.Entities\bin\Debug\net5.0\Etools.Entities.pdb
+C:\Users\Admin\source\repos\Etools.Entities\obj\Debug\net5.0\Etools.Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Etools.Entities\obj\Debug\net5.0\Etools.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Etools.Entities\obj\Debug\net5.0\Etools.Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Etools.Entities\obj\Debug\net5.0\Etools.Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Etools.Entities\obj\Debug\net5.0\Etools.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Etools.Entities\obj\Debug\net5.0\Etools.Entities.dll
+C:\Users\Admin\source\repos\Etools.Entities\obj\Debug\net5.0\ref\Etools.Entities.dll
+C:\Users\Admin\source\repos\Etools.Entities\obj\Debug\net5.0\Etools.Entities.pdb
+C:\Users\Admin\source\repos\Etools.Entities\bin\Debug\net5.0\Etools.Entities.runtimeconfig.json
+C:\Users\Admin\source\repos\Etools.Entities\bin\Debug\net5.0\Etools.Entities.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Etools.Entities\obj\Debug\net5.0\Etools.Entities.genruntimeconfig.cache
+D:\New folder (2)\etoolsapi\Etools.Entities\bin\Debug\net5.0\Etools.Entities.deps.json
+D:\New folder (2)\etoolsapi\Etools.Entities\bin\Debug\net5.0\Etools.Entities.runtimeconfig.json
+D:\New folder (2)\etoolsapi\Etools.Entities\bin\Debug\net5.0\Etools.Entities.runtimeconfig.dev.json
+D:\New folder (2)\etoolsapi\Etools.Entities\bin\Debug\net5.0\Etools.Entities.dll
+D:\New folder (2)\etoolsapi\Etools.Entities\bin\Debug\net5.0\ref\Etools.Entities.dll
+D:\New folder (2)\etoolsapi\Etools.Entities\bin\Debug\net5.0\Etools.Entities.pdb
+D:\New folder (2)\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.csproj.AssemblyReference.cache
+D:\New folder (2)\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (2)\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.AssemblyInfoInputs.cache
+D:\New folder (2)\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.AssemblyInfo.cs
+D:\New folder (2)\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.csproj.CoreCompileInputs.cache
+D:\New folder (2)\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.dll
+D:\New folder (2)\etoolsapi\Etools.Entities\obj\Debug\net5.0\ref\Etools.Entities.dll
+D:\New folder (2)\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.pdb
+D:\New folder (2)\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.genruntimeconfig.cache
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\bin\Debug\net5.0\Etools.Entities.deps.json
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\bin\Debug\net5.0\Etools.Entities.runtimeconfig.json
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\bin\Debug\net5.0\Etools.Entities.runtimeconfig.dev.json
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\bin\Debug\net5.0\Etools.Entities.dll
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\bin\Debug\net5.0\ref\Etools.Entities.dll
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\bin\Debug\net5.0\Etools.Entities.pdb
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.csproj.AssemblyReference.cache
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.AssemblyInfoInputs.cache
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.AssemblyInfo.cs
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.csproj.CoreCompileInputs.cache
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.dll
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\obj\Debug\net5.0\ref\Etools.Entities.dll
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.pdb
+D:\EtoolsAPI-Gitlab\etoolsapi\Etools.Entities\obj\Debug\net5.0\Etools.Entities.genruntimeconfig.cache
