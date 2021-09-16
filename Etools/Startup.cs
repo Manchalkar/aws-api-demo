@@ -1,4 +1,5 @@
 using Etools.Entities.DbContexts;
+using Etools.WebApi.Versioning;
 
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
@@ -42,30 +43,50 @@ namespace Etools
                 var enumConverter = new JsonStringEnumConverter();
                 opts.JsonSerializerOptions.Converters.Add(enumConverter);
             });
-            services.AddSwaggerGen(c =>
+            
+            services.AddSwaggerGen(swagger =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Etools", Version = "v1" });
-                c.DescribeAllEnumsAsStrings();
-                c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                swagger.SwaggerDoc("v1", new OpenApiInfo
                 {
-                    In = ParameterLocation.Header,
-                    Description = "Please insert JWT with Bearer into field",
-                    Name = "Authorization",
-                    Type = SecuritySchemeType.ApiKey
+                    Version = "v1",
+                    Title = "Lumenox API'   ",
                 });
-                c.AddSecurityRequirement(new OpenApiSecurityRequirement {
-                       {
-                         new OpenApiSecurityScheme
-                         {
-                           Reference = new OpenApiReference
-                           {
-                             Type = ReferenceType.SecurityScheme,
-                             Id = "Bearer"
-                           }
-                         },new string[] { }
-                       }
+                swagger.SwaggerDoc("v2", new OpenApiInfo
+                {
+                    Version = "v2",
+                    Title = "Lumenox API's",
+                });
+                swagger.ResolveConflictingActions(a => a.First());
+                swagger.OperationFilter<RemoveVersionFromParameter>();
+                swagger.DocumentFilter<ReplaceVersionWithExactValueInPath>();
+
+                swagger.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                {
+                    Description =
+                        "JWT Authorization header using the Bearer scheme. \r\n\r\n Enter 'Bearer' [space] and then your token in the text input below.\r\n\r\nExample: \"Bearer 96512345arbcydef\"",
+                    Name = "Authorization",
+                    In = ParameterLocation.Header,
+                    BearerFormat = "JWT",
+                    Type = SecuritySchemeType.ApiKey,
+                    Scheme = "Bearer"
+                });
+
+                swagger.AddSecurityRequirement(new OpenApiSecurityRequirement
+                {
+                    {
+                        new OpenApiSecurityScheme
+                        {
+                            Reference = new OpenApiReference
+                            {
+                                Type = ReferenceType.SecurityScheme,
+                                Id = "Bearer"
+                            }
+                        },
+                        Array.Empty<string>()
+                    }
                 });
             });
+
             services.AddDbContext<EtoolsDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConnStr")));
             services.AddAuthentication(options =>
             {

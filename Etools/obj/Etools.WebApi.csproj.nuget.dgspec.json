@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools\\Etools.WebApi.csproj": {}
+    "D:\\Etools-Gitlab\\etoolsapi\\Etools\\Etools.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj": {
+    "D:\\Etools-Gitlab\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj",
+        "projectUniqueName": "D:\\Etools-Gitlab\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj",
         "projectName": "Etools.Entities",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Entities\\obj\\",
+        "projectPath": "D:\\Etools-Gitlab\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Etools-Gitlab\\etoolsapi\\Etools.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -77,21 +78,22 @@
         }
       }
     },
-    "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Services\\Etools.Services.csproj": {
+    "D:\\Etools-Gitlab\\etoolsapi\\Etools.Services\\Etools.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Services\\Etools.Services.csproj",
+        "projectUniqueName": "D:\\Etools-Gitlab\\etoolsapi\\Etools.Services\\Etools.Services.csproj",
         "projectName": "Etools.Services",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Services\\Etools.Services.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Services\\obj\\",
+        "projectPath": "D:\\Etools-Gitlab\\etoolsapi\\Etools.Services\\Etools.Services.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Etools-Gitlab\\etoolsapi\\Etools.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -104,8 +106,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj": {
-                "projectPath": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj"
+              "D:\\Etools-Gitlab\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj": {
+                "projectPath": "D:\\Etools-Gitlab\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj"
               }
             }
           }
@@ -138,21 +140,22 @@
         }
       }
     },
-    "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools\\Etools.WebApi.csproj": {
+    "D:\\Etools-Gitlab\\etoolsapi\\Etools\\Etools.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools\\Etools.WebApi.csproj",
+        "projectUniqueName": "D:\\Etools-Gitlab\\etoolsapi\\Etools\\Etools.WebApi.csproj",
         "projectName": "Etools.WebApi",
-        "projectPath": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools\\Etools.WebApi.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools\\obj\\",
+        "projectPath": "D:\\Etools-Gitlab\\etoolsapi\\Etools\\Etools.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Etools-Gitlab\\etoolsapi\\Etools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -165,11 +168,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj": {
-                "projectPath": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj"
+              "D:\\Etools-Gitlab\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj": {
+                "projectPath": "D:\\Etools-Gitlab\\etoolsapi\\Etools.Entities\\Etools.Entities.csproj"
               },
-              "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Services\\Etools.Services.csproj": {
-                "projectPath": "C:\\Users\\Dell\\source\\repos\\etoolsapi\\Etools.Services\\Etools.Services.csproj"
+              "D:\\Etools-Gitlab\\etoolsapi\\Etools.Services\\Etools.Services.csproj": {
+                "projectPath": "D:\\Etools-Gitlab\\etoolsapi\\Etools.Services\\Etools.Services.csproj"
               }
             }
           }
