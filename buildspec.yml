@@ -10,7 +10,8 @@ phases:
   build:
     commands:
       - echo Build started on `date`
-      - dotnet publish -c release --self-contained false --runtime win-x64 -o ./build_output Etools/Etools.WebApi.csproj
+      - dotnet publish -c release --self-contained false -r linux-x64 ./build_output Etools/Etools.WebApi.csproj
+      - cp Procfile ./build_output
 artifacts:
   files:
     - ./**/*
