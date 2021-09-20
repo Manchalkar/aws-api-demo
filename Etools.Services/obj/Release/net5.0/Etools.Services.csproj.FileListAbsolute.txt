@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\bin\Release\net5.0\Etools.Services.deps.json
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\bin\Release\net5.0\Etools.Services.dll
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\bin\Release\net5.0\ref\Etools.Services.dll
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\bin\Release\net5.0\Etools.Services.pdb
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\bin\Release\net5.0\Etools.Entities.dll
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\bin\Release\net5.0\Etools.Entities.pdb
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\obj\Release\net5.0\Etools.Services.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\obj\Release\net5.0\Etools.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\obj\Release\net5.0\Etools.Services.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\obj\Release\net5.0\Etools.Services.AssemblyInfo.cs
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\obj\Release\net5.0\Etools.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\obj\Release\net5.0\Etools.Services.csproj.CopyComplete
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\obj\Release\net5.0\Etools.Services.dll
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\obj\Release\net5.0\ref\Etools.Services.dll
+C:\Users\Dell\source\repos\etoolsapi\Etools.Services\obj\Release\net5.0\Etools.Services.pdb

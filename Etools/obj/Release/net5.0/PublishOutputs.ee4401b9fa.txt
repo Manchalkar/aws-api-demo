@@ -1,6 +1,7 @@
 C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\Etools.WebApi.exe
 C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\appsettings.Development.json
 C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\appsettings.json
+C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\aws-beanstalk-tools-defaults.json
 C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\Etools.WebApi.dll
 C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\Etools.WebApi.runtimeconfig.json
 C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\Etools.WebApi.pdb
@@ -42,4 +43,8 @@ C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\runtimes\win-x86\nat
 C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\Etools.Entities.dll
+C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\Etools.Services.dll
+C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\Etools.Entities.pdb
+C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\Etools.Services.pdb
 C:\Users\Dell\AppData\Local\Temp\AWSDeploy.eafd1931\package\Etools.WebApi.deps.json

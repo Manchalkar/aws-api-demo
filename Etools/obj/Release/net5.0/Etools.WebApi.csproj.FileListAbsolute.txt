@@ -63,3 +63,8 @@ C:\Users\Dell\source\repos\etoolsapi\Etools\obj\Release\net5.0\Etools.WebApi.dll
 C:\Users\Dell\source\repos\etoolsapi\Etools\obj\Release\net5.0\ref\Etools.WebApi.dll
 C:\Users\Dell\source\repos\etoolsapi\Etools\obj\Release\net5.0\Etools.WebApi.pdb
 C:\Users\Dell\source\repos\etoolsapi\Etools\obj\Release\net5.0\Etools.WebApi.genruntimeconfig.cache
+C:\Users\Dell\source\repos\etoolsapi\Etools\bin\Release\net5.0\aws-beanstalk-tools-defaults.json
+C:\Users\Dell\source\repos\etoolsapi\Etools\bin\Release\net5.0\Etools.Entities.dll
+C:\Users\Dell\source\repos\etoolsapi\Etools\bin\Release\net5.0\Etools.Services.dll
+C:\Users\Dell\source\repos\etoolsapi\Etools\bin\Release\net5.0\Etools.Entities.pdb
+C:\Users\Dell\source\repos\etoolsapi\Etools\bin\Release\net5.0\Etools.Services.pdb

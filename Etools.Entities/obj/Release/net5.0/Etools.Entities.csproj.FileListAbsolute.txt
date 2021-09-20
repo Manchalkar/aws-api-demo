@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\bin\Release\net5.0\Etools.Entities.deps.json
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\bin\Release\net5.0\Etools.Entities.runtimeconfig.json
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\bin\Release\net5.0\Etools.Entities.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\bin\Release\net5.0\Etools.Entities.dll
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\bin\Release\net5.0\ref\Etools.Entities.dll
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\bin\Release\net5.0\Etools.Entities.pdb
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\obj\Release\net5.0\Etools.Entities.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\obj\Release\net5.0\Etools.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\obj\Release\net5.0\Etools.Entities.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\obj\Release\net5.0\Etools.Entities.AssemblyInfo.cs
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\obj\Release\net5.0\Etools.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\obj\Release\net5.0\Etools.Entities.dll
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\obj\Release\net5.0\ref\Etools.Entities.dll
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\obj\Release\net5.0\Etools.Entities.pdb
+C:\Users\Dell\source\repos\etoolsapi\Etools.Entities\obj\Release\net5.0\Etools.Entities.genruntimeconfig.cache
